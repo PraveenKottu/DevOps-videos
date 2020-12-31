@@ -3,17 +3,5 @@ To start using Amazon EC2 you will want to launch a virtual server, known as an 
 Find free software trial products in the AWS Marketplace 
 Welcome to Devops World
 To start using Amazon EC2i you will want to launch a virtual server, known as an Amazon EC2 instance.
-Welcome to Devops World
-us-east-1a:
-Availability zone is operating normally
-us-east-1b:
-Availability zone is operating normally
-us-east-1c:
-Availability zone is operating normally
-us-east-1d:
-Availability zone is operating normally
-us-east-1e:
-Availability zone is operating normally
-us-east-1f:
-Availability zone is operating normall
-welcome to DevOps world
+
+deleted few lines from this file.
